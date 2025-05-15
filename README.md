@@ -20,7 +20,7 @@
 🇩🇪 **Deutsche Version**
 
 #### Schau dir den Chatroom hier an:  
-[https://github.com/pzki99/kic_chatroom.github.io](https://pzki99.github.io/kic_chatroom.github.io)
+[https://github.com/pzki99/kic_chatroom.github.io](https://github.com/pzki99/kic_chatroom.github.io)
 
 #### Möchtest du deinen eigenen Chatroom einrichten? So geht's:
 1. Forke dieses Repository (dadurch erhältst du eine Kopie des Projekts in deinem GitHub-Konto).
